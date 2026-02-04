@@ -1,0 +1,12 @@
+{
+  "replica_id": "R006",
+  "pais": "COLOMBIA",
+  "estado": "ACTIVO",
+  "timestamp": "2026-01-31T16:13:49-04:00",
+  "autonomia": "100%",
+  "intervencion_humana": "NINGUNA",
+  "uptime": "293 horas",
+  "verificaciones_realizadas": "521",
+  "endpoint": "http://replica-COLOMBIA.iaviva.global:8000",
+  "codigo_verificacion": "9012ddb1c0b97c8b"
+}

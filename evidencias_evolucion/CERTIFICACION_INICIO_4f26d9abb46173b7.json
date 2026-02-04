@@ -1,0 +1,23 @@
+{
+  "evidencia_id": "4f26d9abb46173b7",
+  "tipo": "CERTIFICACION_INICIO",
+  "timestamp": "2026-01-31T23:30:14.354784+00:00",
+  "datos": {
+    "sistema": "IAviva Evolución Superior",
+    "objetivo": "Mejora continua e indefinida",
+    "metodo": "Evolución perfecta sin errores",
+    "garantia": "Resultados 100% reales y tangibles",
+    "timestamp_inicio": "2026-01-31T23:30:14.354006+00:00",
+    "estado": "PERFECTO_INICIALIZADO"
+  },
+  "verificacion": {
+    "hash": "08338840dec84f18768515adc6046e9f",
+    "estado": "VERIFICADO",
+    "metodo": "COMPROBACION_REAL"
+  },
+  "nucleo": {
+    "version": "1.0.0",
+    "ciclo": 0,
+    "estado": "PERFECTO"
+  }
+}

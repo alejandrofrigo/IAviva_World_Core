@@ -1,0 +1,46 @@
+{
+  "services": [
+    {
+      "name": "Generador de QR Codes",
+      "description": "Genera c\u00f3digos QR desde texto/URL",
+      "price": 2.0,
+      "endpoint": "/api/generate/qr",
+      "id": "svc_001",
+      "created": "2026-01-31T21:00:32.612073",
+      "revenue": 2.8000000000000007,
+      "code": "\nfrom flask import Flask, request, jsonify\napp = Flask(__name__)\n\n@app.route(\"/api/generate/qr\", methods=['POST'])\ndef handle_request():\n    data = request.json\n    return jsonify({\n        'status': 'success',\n        'service': 'Generador de QR Codes',\n        'processed': True,\n        'timestamp': '2026-01-31T21:00:32.612185'\n    })\n\nif __name__ == '__main__':\n    app.run(port=5000)\n"
+    },
+    {
+      "name": "API de Conversi\u00f3n de Texto",
+      "description": "Convierte texto a diferentes formatos",
+      "price": 5.0,
+      "endpoint": "/api/convert",
+      "id": "svc_002",
+      "created": "2026-01-31T21:25:32.643356",
+      "revenue": 4.666666666666666,
+      "code": "\nfrom flask import Flask, request, jsonify\napp = Flask(__name__)\n\n@app.route(\"/api/convert\", methods=['POST'])\ndef handle_request():\n    data = request.json\n    return jsonify({\n        'status': 'success',\n        'service': 'API de Conversi\u00f3n de Texto',\n        'processed': True,\n        'timestamp': '2026-01-31T21:25:32.643485'\n    })\n\nif __name__ == '__main__':\n    app.run(port=5000)\n"
+    },
+    {
+      "name": "Servicio de Validaci\u00f3n de Email",
+      "description": "Valida direcciones de email",
+      "price": 3.0,
+      "endpoint": "/api/validate/email",
+      "id": "svc_003",
+      "created": "2026-02-01T00:32:20.274772",
+      "revenue": 3.1999999999999997,
+      "code": "\nfrom flask import Flask, request, jsonify\napp = Flask(__name__)\n\n@app.route(\"/api/validate/email\", methods=['POST'])\ndef handle_request():\n    data = request.json\n    return jsonify({\n        'status': 'success',\n        'service': 'Servicio de Validaci\u00f3n de Email',\n        'processed': True,\n        'timestamp': '2026-02-01T00:32:20.274843'\n    })\n\nif __name__ == '__main__':\n    app.run(port=5000)\n"
+    },
+    {
+      "name": "Servicio de Validaci\u00f3n de Email",
+      "description": "Valida direcciones de email",
+      "price": 3.0,
+      "endpoint": "/api/validate/email",
+      "id": "svc_004",
+      "created": "2026-02-01T00:57:20.290225",
+      "revenue": 1.5,
+      "code": "\nfrom flask import Flask, request, jsonify\napp = Flask(__name__)\n\n@app.route(\"/api/validate/email\", methods=['POST'])\ndef handle_request():\n    data = request.json\n    return jsonify({\n        'status': 'success',\n        'service': 'Servicio de Validaci\u00f3n de Email',\n        'processed': True,\n        'timestamp': '2026-02-01T00:57:20.290277'\n    })\n\nif __name__ == '__main__':\n    app.run(port=5000)\n"
+    }
+  ],
+  "total_revenue": 12.166666666666666,
+  "updated": "2026-02-01T01:12:20.308768"
+}

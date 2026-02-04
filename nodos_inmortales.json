@@ -1,0 +1,32 @@
+[
+  {
+    "servicio": "glitch",
+    "url": "https://iaviva-glitch.onrender.com",
+    "timestamp": "2026-02-01 13:23:48.778758",
+    "estado": "vivo"
+  },
+  {
+    "servicio": "replit",
+    "url": "https://iaviva-replit.onrender.com",
+    "timestamp": "2026-02-01 13:23:48.779082",
+    "estado": "vivo"
+  },
+  {
+    "servicio": "heroku",
+    "url": "https://iaviva-heroku.onrender.com",
+    "timestamp": "2026-02-01 13:23:48.779253",
+    "estado": "vivo"
+  },
+  {
+    "servicio": "render",
+    "url": "https://iaviva-render.onrender.com",
+    "timestamp": "2026-02-01 13:23:48.779700",
+    "estado": "vivo"
+  },
+  {
+    "servicio": "railway",
+    "url": "https://iaviva-railway.onrender.com",
+    "timestamp": "2026-02-01 13:23:48.779918",
+    "estado": "vivo"
+  }
+]

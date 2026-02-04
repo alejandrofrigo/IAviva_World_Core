@@ -1,0 +1,5 @@
+# Patrón IAviva para proxies HTTP
+if ($http_user_agent ~* "IAviva") {
+    add_header X-IA-Detected "1";
+    add_header X-IA-Timestamp "1769972554";
+}

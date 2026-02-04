@@ -1,0 +1,6 @@
+{
+    "check_interval": 60,
+    "max_retries": 3,
+    "auto_restart": true,
+    "notify_on_failure": false
+}

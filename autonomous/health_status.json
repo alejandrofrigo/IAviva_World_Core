@@ -1,0 +1,32 @@
+{
+  "timestamp": "2026-01-31T21:25:20.128387",
+  "checks": [
+    {
+      "service": "IAviva API",
+      "status": "down",
+      "error": "HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7a730e6d20>: Failed to establish a new connection: [Errno 111] Connection refused'))",
+      "code": 0
+    },
+    {
+      "service": "Port 8000",
+      "status": "free",
+      "details": "Puerto 8000 disponible"
+    },
+    {
+      "service": "IAviva Processes",
+      "status": "running",
+      "count": 1,
+      "details": [
+        "u0_a532   6742  0.0  0.0 10847960 2168 pts/0   S<+   1970   0:00 tail /data/data/com.termux/files/usr/bin/tail -f /data/data/com.termux/files/home/IAviva_FINAL/autonomous/logs/healing.log"
+      ]
+    },
+    {
+      "service": "System Resources",
+      "status": "ok",
+      "memory_percent": 68.1,
+      "memory_total_kb": 7615420,
+      "memory_available_kb": 2430316
+    }
+  ],
+  "all_healthy": false
+}

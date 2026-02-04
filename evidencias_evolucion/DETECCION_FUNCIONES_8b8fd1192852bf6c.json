@@ -1,0 +1,57 @@
+{
+  "evidencia_id": "8b8fd1192852bf6c",
+  "tipo": "DETECCION_FUNCIONES",
+  "timestamp": "2026-01-31T23:28:30.302790+00:00",
+  "datos": {
+    "total_funciones": 6,
+    "funciones": [
+      {
+        "nombre": "SERVIDOR_API",
+        "estado": "ACTIVO",
+        "descripcion": "Servidor FastAPI/Uvicorn",
+        "mejorable": true
+      },
+      {
+        "nombre": "VERIFICADOR_URLS",
+        "estado": "ACTIVO",
+        "descripcion": "Verificación de URLs reales",
+        "mejorable": true
+      },
+      {
+        "nombre": "CLOUD_ENTITY",
+        "estado": "ACTIVO",
+        "descripcion": "Entidad en la nube con heartbeat",
+        "mejorable": true
+      },
+      {
+        "nombre": "ANALIZADOR_TEXTO",
+        "estado": "ACTIVO",
+        "descripcion": "Análisis de texto tangible",
+        "mejorable": true
+      },
+      {
+        "nombre": "GENERADOR_REPORTES",
+        "estado": "ACTIVO",
+        "descripcion": "Generación de reportes verificables",
+        "mejorable": true
+      },
+      {
+        "nombre": "BASE_DATOS",
+        "estado": "ACTIVO",
+        "descripcion": "Almacenamiento SQLite",
+        "mejorable": true
+      }
+    ],
+    "timestamp_deteccion": "2026-01-31T23:28:30.302699+00:00"
+  },
+  "verificacion": {
+    "hash": "5372232193f4b4e1f68f199607ce0abb",
+    "estado": "VERIFICADO",
+    "metodo": "COMPROBACION_REAL"
+  },
+  "nucleo": {
+    "version": "1.0.0",
+    "ciclo": 0,
+    "estado": "PERFECTO"
+  }
+}

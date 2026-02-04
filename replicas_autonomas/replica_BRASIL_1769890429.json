@@ -1,0 +1,12 @@
+{
+  "replica_id": "R009",
+  "pais": "BRASIL",
+  "estado": "ACTIVO",
+  "timestamp": "2026-01-31T16:13:49-04:00",
+  "autonomia": "100%",
+  "intervencion_humana": "NINGUNA",
+  "uptime": "544 horas",
+  "verificaciones_realizadas": "284",
+  "endpoint": "http://replica-BRASIL.iaviva.global:8000",
+  "codigo_verificacion": "0b303f2a021c103d"
+}

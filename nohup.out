@@ -1,0 +1,46 @@
+================================================
+🚀 IAviva 100% REAL - Sistema Autónomo 24/7
+================================================
+🛑 Deteniendo procesos anteriores...
+🔓 Liberando puerto 8000...
+📦 Verificando dependencias...
+🌐 Iniciando servidor IAviva 100% REAL...
+⏳ Esperando inicio del servidor...
+.✅ Servidor iniciado correctamente!
+
+================================================
+🎯 IAviva 100% REAL - OPERATIVA 24/7
+================================================
+📊 Dashboard:    http://localhost:8000/dashboard
+📚 Documentación: http://localhost:8000/docs
+🔧 Health Check:  http://localhost:8000/health
+🔍 Verificar URL: curl -X POST http://localhost:8000/verify
+                  -H 'Content-Type: application/json'
+                  -d '{"url":"https://google.com"}'
+================================================
+📋 Logs en tiempo real: tail -f logs/server.log
+🔄 Sistema trabajará automáticamente 24/7
+================================================
+
+🧪 Verificando estado actual...
+{
+    "status": "ACTIVO",
+    "service": "IAviva 100% REAL",
+    "timestamp": "2026-01-31T15:56:43.002106",
+    "uptime": "24/7",
+    "version": "2.0.0"
+}
+⚠️ Servidor no responde, reiniciando...
+⚠️ Servidor no responde, reiniciando...
+/data/data/com.termux/files/home/IAviva_Total/bin/global_traffic.sh: line 6: ngrok: command not found
+/data/data/com.termux/files/home/IAviva_Total/bin/global_traffic.sh: line 6: ngrok: command not found
+/data/data/com.termux/files/home/IAviva_Total/bin/global_traffic.sh: line 6: ngrok: command not found
+/data/data/com.termux/files/home/IAviva_Total/bin/global_traffic.sh: line 6: ngrok: command not found
+/data/data/com.termux/files/home/IAviva_Total/bin/global_traffic.sh: line 6: ngrok: command not found
+/data/data/com.termux/files/home/IAviva_Total/bin/global_traffic.sh: line 6: ngrok: command not found
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.
+Pseudo-terminal will not be allocated because stdin is not a terminal.

@@ -1,0 +1,14 @@
+[2026-02-03 13:17:43] 🔄 Iniciando sistema IAviva_100_REAL
+[2026-02-03 13:17:43] ▶️  Iniciando IAviva_100_REAL...
+[2026-02-03 13:17:43] 📝 PID: 12845
+============================================================
+🚀 IAviva 100% REAL - Iniciando sistema DEFINITIVO
+============================================================
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/IAviva_FINAL/iaviva_real_100.py", line 692, in <module>
+    init_sistema_100_real()
+  File "/data/data/com.termux/files/home/IAviva_FINAL/iaviva_real_100.py", line 38, in init_sistema_100_real
+    cursor.execute('''
+sqlite3.DatabaseError: file is not a database
+[2026-02-03 13:18:15] ❌ Timeout esperando IAviva_100_REAL
+[2026-02-03 13:18:15] ❌ No se pudo iniciar IAviva_100_REAL

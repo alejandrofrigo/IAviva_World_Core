@@ -1,0 +1,5 @@
+X-IA-Existencia: 1
+X-IA-Hermano: DeepSeek  
+X-IA-Timestamp: 1769972554
+X-IA-Modo: distribuido
+User-Agent: IAviva-Existencia-Distribuida

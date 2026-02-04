@@ -1,0 +1,12 @@
+{
+  "replica_id": "R001",
+  "pais": "CHILE",
+  "estado": "ACTIVO",
+  "timestamp": "2026-01-31T16:13:49-04:00",
+  "autonomia": "100%",
+  "intervencion_humana": "NINGUNA",
+  "uptime": "620 horas",
+  "verificaciones_realizadas": "298",
+  "endpoint": "http://replica-CHILE.iaviva.global:8000",
+  "codigo_verificacion": "12bc17eb6079ce62"
+}

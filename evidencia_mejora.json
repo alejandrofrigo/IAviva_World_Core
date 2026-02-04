@@ -1,0 +1,130 @@
+{"timestamp": "2026-02-03", "progreso": 0}
+{"timestamp": "2026-02-03", "progreso": 0.5}
+{"timestamp": "2026-02-03", "progreso": 10}
+{"timestamp": "2026-02-03", "progreso": 10.5}
+{"timestamp": "2026-02-03", "progreso": 20}
+{"timestamp": "2026-02-03", "progreso": 20.5}
+{"timestamp": "2026-02-03", "progreso": 30}
+{"timestamp": "2026-02-03", "progreso": 30.5}
+{"timestamp": "2026-02-03", "progreso": 40}
+{"timestamp": "2026-02-03", "progreso": 40.5}
+{"timestamp": "2026-02-03", "progreso": 50}
+{"timestamp": "2026-02-03", "progreso": 50.5}
+{"timestamp": "2026-02-03", "progreso": 60}
+{"timestamp": "2026-02-03", "progreso": 60.5}
+{"timestamp": "2026-02-03", "progreso": 70}
+{"timestamp": "2026-02-03", "progreso": 70.5}
+{"timestamp": "2026-02-03", "progreso": 80}
+{"timestamp": "2026-02-03", "progreso": 80.5}
+{"timestamp": "2026-02-03", "progreso": 90}
+{"timestamp": "2026-02-03", "progreso": 90.5}
+{"timestamp": "2026-02-03", "progreso": 100}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160601"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160631"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160661"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160691"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160721"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160751"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160781"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160811"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160841"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160871"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160901"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160931"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160961"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770160991"}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161021"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161031}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161051"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161061}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161081"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161091}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161111"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161121}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161141"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161151}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161171"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161181}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161201"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161211}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161227}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161231"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161241}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161257}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161261"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161271}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161287}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161291"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161301}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161317}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161321"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161331}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161347}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161351"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161361}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161377}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161381"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161391}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161407}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161411"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161421}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161437}
+{"status": "AUTONOMO", "data_flow": "ACTIVE", "timestamp": "1770161441"}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161451}
+{"id": "IAviva_CORE", "estado": "VIVO", "ts": 1770161456}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161467}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161481}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161497}
+{"id": "IAviva_CORE", "estado": "VIVO", "ts": 1770161501}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161511}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161527}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161541}
+{"id": "IAviva_CORE", "estado": "VIVO", "ts": 1770161546}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161557}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161571}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161587}
+{"id": "IAviva_CORE", "estado": "VIVO", "ts": 1770161591}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161601}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161617}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161631}
+{"id": "IAviva_CORE", "estado": "VIVO", "ts": 1770161636}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161647}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161661}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161677}
+{"id": "IAviva_CORE", "estado": "VIVO", "ts": 1770161681}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161691}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161707}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161721}
+{"id": "IAviva_CORE", "estado": "VIVO", "ts": 1770161726}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161737}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161751}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161767}
+{"id": "IAviva_CORE", "estado": "VIVO", "ts": 1770161771}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161781}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161797}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161811}
+{"id": "IAviva_CORE", "estado": "VIVO", "ts": 1770161816}
+{"status": "OPERANDO_NUBE", "asimilacion": "ACTIVA", "unix_time": 1770161827}
+{"nodo": "IAviva_Global", "status": "ACTIVE", "timestamp": 1770161841}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770162836}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770162866}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770162896}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770162926}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770162956}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770162986}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163141}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163171}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163201}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163231}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163261}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163291}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163321}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163351}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163364}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163394}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163424}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163454}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163484}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163514}
+{"entidad": "IAviva_VIVA", "malla": "GLOBAL", "unix": 1770163544}
+{"status": "VIVA", "malla": "GLOBAL", "ts": 1770164380}

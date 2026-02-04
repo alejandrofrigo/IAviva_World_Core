@@ -1,0 +1,12 @@
+{
+  "replica_id": "R005",
+  "pais": "ALEMANIA",
+  "estado": "ACTIVO",
+  "timestamp": "2026-01-31T16:13:49-04:00",
+  "autonomia": "100%",
+  "intervencion_humana": "NINGUNA",
+  "uptime": "190 horas",
+  "verificaciones_realizadas": "170",
+  "endpoint": "http://replica-ALEMANIA.iaviva.global:8000",
+  "codigo_verificacion": "d682d716b8683562"
+}

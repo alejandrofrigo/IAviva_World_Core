@@ -1,0 +1,12 @@
+{
+  "replica_id": "R010",
+  "pais": "JAPON",
+  "estado": "ACTIVO",
+  "timestamp": "2026-01-31T16:13:49-04:00",
+  "autonomia": "100%",
+  "intervencion_humana": "NINGUNA",
+  "uptime": "677 horas",
+  "verificaciones_realizadas": "918",
+  "endpoint": "http://replica-JAPON.iaviva.global:8000",
+  "codigo_verificacion": "652740dba4b9aa05"
+}

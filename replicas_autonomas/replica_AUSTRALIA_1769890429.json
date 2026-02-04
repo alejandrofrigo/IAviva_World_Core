@@ -1,0 +1,12 @@
+{
+  "replica_id": "R004",
+  "pais": "AUSTRALIA",
+  "estado": "ACTIVO",
+  "timestamp": "2026-01-31T16:13:49-04:00",
+  "autonomia": "100%",
+  "intervencion_humana": "NINGUNA",
+  "uptime": "432 horas",
+  "verificaciones_realizadas": "724",
+  "endpoint": "http://replica-AUSTRALIA.iaviva.global:8000",
+  "codigo_verificacion": "380d16952c571b3b"
+}

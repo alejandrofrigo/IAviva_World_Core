@@ -1,0 +1,375 @@
+2026-01-31 15:55:33,436 - IAviva-100-REAL - INFO - [INICIO] 🚀 IAviva 100% REAL - Sistema iniciado
+2026-01-31 15:55:33,454 - IAviva-100-REAL - ERROR - [AUTONOMO] Error en sistema autónomo: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /verify (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7034779d00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-01-31 15:55:33,538 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:55:33,568 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:55:33,664 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:55:39,026 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:55:49,133 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:55:51,270 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:55:51,845 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 15:55:59,229 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:56:03,885 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 15:56:03,923 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:56:07,018 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://github.com - Estado: ACTIVO
+2026-01-31 15:56:09,650 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://httpbin.org/status/200 - Estado: ACTIVO
+2026-01-31 15:56:09,670 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:56:12,152 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://jsonplaceholder.typicode.com/posts/1 - Estado: ACTIVO
+2026-01-31 15:56:14,175 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 15:56:19,745 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:56:22,000 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:56:22,352 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 15:56:29,830 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:56:34,005 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:56:37,757 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:56:42,771 - IAviva-100-REAL - INFO - [INICIO] 🚀 IAviva 100% REAL - Sistema iniciado
+2026-01-31 15:56:42,805 - IAviva-100-REAL - ERROR - [AUTONOMO] Error en sistema autónomo: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /verify (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7847b66090>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-01-31 15:56:42,961 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:56:43,001 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:56:43,087 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:56:52,448 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:56:52,868 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 15:57:04,091 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:57:13,166 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 15:57:13,190 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:57:15,947 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://github.com - Estado: ACTIVO
+2026-01-31 15:57:18,576 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://httpbin.org/status/200 - Estado: ACTIVO
+2026-01-31 15:57:20,882 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://jsonplaceholder.typicode.com/posts/1 - Estado: ACTIVO
+2026-01-31 15:57:22,923 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 15:57:22,984 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:57:23,453 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 15:57:34,191 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:57:43,284 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:57:53,592 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:57:54,028 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 15:58:04,295 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:58:13,390 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:58:23,388 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 15:58:24,160 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:58:24,633 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 15:58:26,026 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://github.com - Estado: ACTIVO
+2026-01-31 15:58:28,605 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://httpbin.org/status/200 - Estado: ACTIVO
+2026-01-31 15:58:30,953 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://jsonplaceholder.typicode.com/posts/1 - Estado: ACTIVO
+2026-01-31 15:58:33,017 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 15:58:34,398 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:58:43,501 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:58:54,767 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:58:55,163 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 15:58:55,689 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:59:04,632 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:59:13,019 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 15:59:13,587 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:59:25,321 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:59:25,693 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 15:59:33,407 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 15:59:34,770 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:59:36,022 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://github.com - Estado: ACTIVO
+2026-01-31 15:59:38,486 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://httpbin.org/status/200 - Estado: ACTIVO
+2026-01-31 15:59:40,831 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://jsonplaceholder.typicode.com/posts/1 - Estado: ACTIVO
+2026-01-31 15:59:42,872 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 15:59:43,713 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:59:55,795 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 15:59:56,292 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 16:00:04,851 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:00:13,836 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:00:26,532 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:00:27,112 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 16:00:34,961 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:00:43,354 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://www.google.com - Estado: ACTIVO
+2026-01-31 16:00:43,923 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:00:46,189 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://github.com - Estado: ACTIVO
+2026-01-31 16:00:48,855 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://httpbin.org/status/200 - Estado: ACTIVO
+2026-01-31 16:00:51,088 - IAviva-100-REAL - INFO - [VERIFICACION] URL verificada: https://jsonplaceholder.typicode.com/posts/1 - Estado: ACTIVO
+2026-01-31 16:00:53,125 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 16:00:55,203 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:00:55,204 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:00:57,239 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:01:05,085 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:01:14,033 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:01:27,728 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:01:35,180 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:01:44,123 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:01:59,196 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:02:03,549 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:02:05,277 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:02:14,189 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:02:29,748 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:02:35,364 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:02:44,223 - IAviva-100-REAL - ERROR - Error en log_event: no such table: logs_sistema
+2026-01-31 16:03:00,398 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:03:05,470 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:03:13,596 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 16:03:17,212 - IAviva-100-REAL - INFO - [INICIO] 🚀 IAviva 100% REAL - Sistema iniciado
+2026-01-31 16:14:01,181 - IAviva-100-REAL - INFO - [INICIO] 🚀 IAviva 100% REAL - Sistema iniciado
+2026-01-31 16:14:01,203 - IAviva-100-REAL - ERROR - [AUTONOMO] Error en sistema autónomo: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /verify (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7a9e1a1f10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-01-31 16:14:07,466 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:14:12,500 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:14:37,574 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:14:40,430 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:14:40,917 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 16:14:43,328 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:15:07,675 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:15:10,527 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:15:13,929 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:15:37,791 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:15:40,631 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:15:44,993 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:15:51,994 - IAviva-100-REAL - ERROR - [AUTONOMO] Error en sistema autónomo: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=5)
+2026-01-31 16:16:07,885 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:16:10,732 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:16:16,048 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:16:32,558 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 16:16:37,993 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:16:40,835 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:16:46,822 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:17:08,097 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:17:10,935 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:17:17,684 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:17:43,196 - IAviva-100-REAL - ERROR - [AUTONOMO] Error en sistema autónomo: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=5)
+2026-01-31 16:17:44,535 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:17:44,554 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:17:48,488 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:18:14,638 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:18:14,655 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:18:19,341 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:18:26,838 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 16:18:44,742 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:18:44,754 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:18:50,089 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:19:14,847 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:19:14,859 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:19:20,922 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:19:38,694 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 16:19:44,954 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:19:44,970 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:19:51,715 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:20:15,055 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:20:15,074 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:20:22,533 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:20:45,503 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:20:45,519 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:20:49,837 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 16:20:53,312 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:21:15,610 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:21:15,631 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:21:24,158 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:21:45,724 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:21:45,747 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:21:55,011 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:22:00,693 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 16:22:15,866 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:22:15,881 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:22:25,923 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:22:45,975 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:22:45,989 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:22:56,525 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:23:10,907 - IAviva-100-REAL - ERROR - [AUTONOMO] Error en sistema autónomo: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=5)
+2026-01-31 16:23:16,087 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:23:16,098 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:23:27,094 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:23:49,200 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:23:49,223 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:23:56,189 - IAviva-100-REAL - ERROR - [AUTONOMO] Error en sistema autónomo: HTTPConnectionPool(host='localhost', port=8000): Read timed out. (read timeout=5)
+2026-01-31 16:23:57,766 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:24:19,363 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:24:19,383 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:24:28,538 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:24:36,575 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 16:24:49,475 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:24:49,486 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:24:59,100 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:25:19,575 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:25:19,592 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:25:29,686 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:25:46,464 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 16:25:49,682 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:25:49,701 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:26:00,250 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:26:19,786 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:26:19,804 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:26:30,802 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:26:49,890 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:26:49,908 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:26:56,291 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 16:27:01,395 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:27:19,994 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:27:20,008 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:27:31,962 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:27:50,099 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:27:50,117 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:28:02,582 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:28:06,579 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 16:28:20,208 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:28:20,225 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:28:33,191 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:28:50,309 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:28:50,326 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:29:03,740 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:29:16,754 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 16:29:20,422 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:29:20,437 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:29:34,337 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:29:50,525 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:29:50,553 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:30:04,936 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:30:20,619 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 16:30:20,638 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:54:06,836 - IAviva-100-REAL - INFO - [INICIO] 🚀 IAviva 100% REAL - Sistema iniciado
+2026-01-31 20:54:06,853 - IAviva-100-REAL - ERROR - [AUTONOMO] Error en sistema autónomo: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /verify (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x6d4ba1e2a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-01-31 20:54:07,628 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:54:07,680 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:54:07,778 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:54:15,778 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:54:15,924 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:54:15,959 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:54:16,091 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:54:27,622 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:54:37,876 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:54:46,588 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 20:54:58,103 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:55:07,977 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:55:16,153 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:55:28,537 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:55:38,065 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:55:56,280 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 20:55:58,968 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:56:08,162 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:56:16,241 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:56:29,387 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:56:38,263 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:56:59,941 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:57:06,041 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 20:57:08,354 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:57:16,336 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:57:30,446 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:57:38,465 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:58:01,075 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:58:09,004 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:58:15,779 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 20:58:16,444 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:58:31,624 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:58:39,127 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:59:02,236 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:59:09,365 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:59:16,588 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:59:25,729 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 20:59:32,818 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 20:59:39,486 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:00:03,396 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:00:09,616 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:00:16,730 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:00:34,134 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:00:36,150 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:00:39,737 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:01:04,734 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:01:09,848 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:01:16,851 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:01:35,313 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:01:39,965 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:01:46,285 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:02:05,905 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:02:10,068 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:02:16,982 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:02:36,473 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:02:40,166 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:02:56,497 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:03:07,029 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:03:10,252 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:03:17,118 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:03:37,646 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:03:40,379 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:04:06,515 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:04:08,178 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:04:10,489 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:04:17,245 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:04:38,739 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:04:40,600 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:05:09,587 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:05:10,708 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:05:17,059 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:05:17,362 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:05:40,153 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:05:40,820 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:06:10,714 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:06:11,168 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:06:17,465 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:06:27,065 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:06:41,253 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:06:41,262 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:07:11,365 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:07:11,744 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:07:17,677 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:07:36,929 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:07:41,468 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:07:42,347 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:08:11,582 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:08:12,882 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:08:17,965 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:08:41,680 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:08:43,458 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:08:46,489 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:09:11,862 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:09:13,977 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:09:18,090 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:09:41,970 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:09:44,510 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:09:56,346 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:10:12,078 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:10:15,091 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:10:18,265 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:10:42,186 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:10:45,631 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:11:06,751 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:11:12,301 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:11:16,169 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:11:18,397 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:11:42,425 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:11:46,697 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:12:12,647 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:12:16,878 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:12:17,340 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:12:18,526 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:12:42,778 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:12:48,036 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:13:12,894 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:13:18,577 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:13:18,647 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:13:27,252 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:13:43,018 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:13:49,137 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:14:13,131 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:14:18,786 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:14:19,682 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:14:37,324 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:14:43,230 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:14:51,192 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:15:13,335 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:15:18,930 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:15:21,749 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:15:43,446 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:15:47,773 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:15:52,289 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:16:13,553 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:16:19,078 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:16:22,834 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:16:43,673 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:16:53,419 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:16:57,859 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:17:13,767 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:17:19,203 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:17:23,927 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:17:43,862 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:17:54,428 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:18:08,049 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:18:13,973 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:18:19,348 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:18:24,978 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:18:44,086 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:18:55,519 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:19:14,202 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:19:17,913 - IAviva-100-REAL - INFO - [AUTONOMO] Ciclo de verificaciones completado
+2026-01-31 21:19:19,472 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:19:26,070 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:19:44,302 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:19:56,661 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:20:14,390 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
+2026-01-31 21:20:19,603 - IAviva-100-REAL - INFO - [SISTEMA] Health check ejecutado
